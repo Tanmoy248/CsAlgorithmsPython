@@ -4,8 +4,7 @@ Created on Sun Oct 25 18:56:03 2015
 
 @author: thakut1
 """
-# http://stackoverflow.com/questions/2598437/how-to-implement-a-binary-tree-in-python
-
+# implementation with node traversal methods
 class Node():
     def __init__(self,val,parent= None):
         self.val = val
