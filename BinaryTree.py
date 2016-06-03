@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct 25 18:56:03 2015
-
-@author: thakut1
+@author: tanmoyt
 """
-# implementation with node traversal methods
+# implementation with node traversal methods (dfs, bfs, pre-order and post-order traversal)
 class Node():
     def __init__(self,val,parent= None):
         self.val = val
