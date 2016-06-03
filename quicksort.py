@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 20 23:07:29 2015
-
-@author: thakut1
+@author: tanmoyt
+@description: uses recursive to attain quicksort
 """
 import random
 from datetime import datetime
